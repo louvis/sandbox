@@ -1,1 +1,1 @@
-# This is a pratice repository.
+# This is a practice repository.
